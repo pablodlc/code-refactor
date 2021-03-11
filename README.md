@@ -39,4 +39,7 @@ I went through all of the images.  I added descriptive alt attributes to images 
 ## Conclusion
 I feel I understood this project pretty well.  It was fun playing detective trying to figure out why some changes had such big effects on the page.  Below is a gif of my finished page:
   
-![HoriseonRefactor](./assets/images/finished.gif)
+![HoriseonRefactor](./assets/images/finished.gif)  
+  
+Visit my site by clicking the link below  
+[Horiseon Code Refactor](https://pablodlc.github.io/code-refactor/)
